@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Betül</h1>
-<h3 align="center">A passionate Data Engineer from Türkiye</h3>
 
 - 📫 How to reach me **betulcfcc@hotmail.com**
 
