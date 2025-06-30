@@ -1,5 +1,5 @@
 
-- 📫 How to reach me **betulcfcc@hotmail.com**
+- 📫 How to reach me **betulcfcc@gmail.com**
 
 <p align="left">
 </p>
